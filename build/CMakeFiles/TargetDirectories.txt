@@ -1,0 +1,4 @@
+/home/one-ky/projects/the c programming language/build/CMakeFiles/program.dir
+/home/one-ky/projects/the c programming language/build/CMakeFiles/chapter1.dir
+/home/one-ky/projects/the c programming language/build/CMakeFiles/edit_cache.dir
+/home/one-ky/projects/the c programming language/build/CMakeFiles/rebuild_cache.dir
