@@ -142,53 +142,941 @@ chapter1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/build
 .PHONY : chapter1/fast
 
-src/Chapter1.o: src/Chapter1.c.o
-.PHONY : src/Chapter1.o
+#=============================================================================
+# Target rules for targets named exercise1_2
+
+# Build rule for target.
+exercise1_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_2
+.PHONY : exercise1_2
+
+# fast build rule for target.
+exercise1_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_2.dir/build.make CMakeFiles/exercise1_2.dir/build
+.PHONY : exercise1_2/fast
+
+#=============================================================================
+# Target rules for targets named test
+
+# Build rule for target.
+test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+.PHONY : test/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_3
+
+# Build rule for target.
+exercise1_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_3
+.PHONY : exercise1_3
+
+# fast build rule for target.
+exercise1_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_3.dir/build.make CMakeFiles/exercise1_3.dir/build
+.PHONY : exercise1_3/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_4
+
+# Build rule for target.
+exercise1_4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_4
+.PHONY : exercise1_4
+
+# fast build rule for target.
+exercise1_4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_4.dir/build.make CMakeFiles/exercise1_4.dir/build
+.PHONY : exercise1_4/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_5
+
+# Build rule for target.
+exercise1_5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_5
+.PHONY : exercise1_5
+
+# fast build rule for target.
+exercise1_5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_5.dir/build.make CMakeFiles/exercise1_5.dir/build
+.PHONY : exercise1_5/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_6
+
+# Build rule for target.
+exercise1_6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_6
+.PHONY : exercise1_6
+
+# fast build rule for target.
+exercise1_6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_6.dir/build.make CMakeFiles/exercise1_6.dir/build
+.PHONY : exercise1_6/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_7
+
+# Build rule for target.
+exercise1_7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_7
+.PHONY : exercise1_7
+
+# fast build rule for target.
+exercise1_7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_7.dir/build.make CMakeFiles/exercise1_7.dir/build
+.PHONY : exercise1_7/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_8
+
+# Build rule for target.
+exercise1_8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_8
+.PHONY : exercise1_8
+
+# fast build rule for target.
+exercise1_8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_8.dir/build.make CMakeFiles/exercise1_8.dir/build
+.PHONY : exercise1_8/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_9
+
+# Build rule for target.
+exercise1_9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_9
+.PHONY : exercise1_9
+
+# fast build rule for target.
+exercise1_9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_9.dir/build.make CMakeFiles/exercise1_9.dir/build
+.PHONY : exercise1_9/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_10
+
+# Build rule for target.
+exercise1_10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_10
+.PHONY : exercise1_10
+
+# fast build rule for target.
+exercise1_10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_10.dir/build.make CMakeFiles/exercise1_10.dir/build
+.PHONY : exercise1_10/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_11
+
+# Build rule for target.
+exercise1_11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_11
+.PHONY : exercise1_11
+
+# fast build rule for target.
+exercise1_11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_11.dir/build.make CMakeFiles/exercise1_11.dir/build
+.PHONY : exercise1_11/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_12
+
+# Build rule for target.
+exercise1_12: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_12
+.PHONY : exercise1_12
+
+# fast build rule for target.
+exercise1_12/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_12.dir/build.make CMakeFiles/exercise1_12.dir/build
+.PHONY : exercise1_12/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_13
+
+# Build rule for target.
+exercise1_13: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_13
+.PHONY : exercise1_13
+
+# fast build rule for target.
+exercise1_13/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_13.dir/build.make CMakeFiles/exercise1_13.dir/build
+.PHONY : exercise1_13/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_14
+
+# Build rule for target.
+exercise1_14: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_14
+.PHONY : exercise1_14
+
+# fast build rule for target.
+exercise1_14/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_14.dir/build.make CMakeFiles/exercise1_14.dir/build
+.PHONY : exercise1_14/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_15
+
+# Build rule for target.
+exercise1_15: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_15
+.PHONY : exercise1_15
+
+# fast build rule for target.
+exercise1_15/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_15.dir/build.make CMakeFiles/exercise1_15.dir/build
+.PHONY : exercise1_15/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_16
+
+# Build rule for target.
+exercise1_16: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_16
+.PHONY : exercise1_16
+
+# fast build rule for target.
+exercise1_16/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_16.dir/build.make CMakeFiles/exercise1_16.dir/build
+.PHONY : exercise1_16/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_17
+
+# Build rule for target.
+exercise1_17: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_17
+.PHONY : exercise1_17
+
+# fast build rule for target.
+exercise1_17/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_17.dir/build.make CMakeFiles/exercise1_17.dir/build
+.PHONY : exercise1_17/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_18
+
+# Build rule for target.
+exercise1_18: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_18
+.PHONY : exercise1_18
+
+# fast build rule for target.
+exercise1_18/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_18.dir/build.make CMakeFiles/exercise1_18.dir/build
+.PHONY : exercise1_18/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_19
+
+# Build rule for target.
+exercise1_19: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_19
+.PHONY : exercise1_19
+
+# fast build rule for target.
+exercise1_19/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_19.dir/build.make CMakeFiles/exercise1_19.dir/build
+.PHONY : exercise1_19/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_20
+
+# Build rule for target.
+exercise1_20: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_20
+.PHONY : exercise1_20
+
+# fast build rule for target.
+exercise1_20/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_20.dir/build.make CMakeFiles/exercise1_20.dir/build
+.PHONY : exercise1_20/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_21
+
+# Build rule for target.
+exercise1_21: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_21
+.PHONY : exercise1_21
+
+# fast build rule for target.
+exercise1_21/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_21.dir/build.make CMakeFiles/exercise1_21.dir/build
+.PHONY : exercise1_21/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_22
+
+# Build rule for target.
+exercise1_22: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_22
+.PHONY : exercise1_22
+
+# fast build rule for target.
+exercise1_22/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_22.dir/build.make CMakeFiles/exercise1_22.dir/build
+.PHONY : exercise1_22/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_23
+
+# Build rule for target.
+exercise1_23: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_23
+.PHONY : exercise1_23
+
+# fast build rule for target.
+exercise1_23/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_23.dir/build.make CMakeFiles/exercise1_23.dir/build
+.PHONY : exercise1_23/fast
+
+#=============================================================================
+# Target rules for targets named exercise1_24
+
+# Build rule for target.
+exercise1_24: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 exercise1_24
+.PHONY : exercise1_24
+
+# fast build rule for target.
+exercise1_24/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_24.dir/build.make CMakeFiles/exercise1_24.dir/build
+.PHONY : exercise1_24/fast
+
+src/chapter1_exercises/Chapter1.o: src/chapter1_exercises/Chapter1.c.o
+.PHONY : src/chapter1_exercises/Chapter1.o
 
 # target to build an object file
-src/Chapter1.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/src/Chapter1.c.o
-.PHONY : src/Chapter1.c.o
+src/chapter1_exercises/Chapter1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o
+.PHONY : src/chapter1_exercises/Chapter1.c.o
 
-src/Chapter1.i: src/Chapter1.c.i
-.PHONY : src/Chapter1.i
+src/chapter1_exercises/Chapter1.i: src/chapter1_exercises/Chapter1.c.i
+.PHONY : src/chapter1_exercises/Chapter1.i
 
 # target to preprocess a source file
-src/Chapter1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/src/Chapter1.c.i
-.PHONY : src/Chapter1.c.i
+src/chapter1_exercises/Chapter1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.i
+.PHONY : src/chapter1_exercises/Chapter1.c.i
 
-src/Chapter1.s: src/Chapter1.c.s
-.PHONY : src/Chapter1.s
+src/chapter1_exercises/Chapter1.s: src/chapter1_exercises/Chapter1.c.s
+.PHONY : src/chapter1_exercises/Chapter1.s
 
 # target to generate assembly for a file
-src/Chapter1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/src/Chapter1.c.s
-.PHONY : src/Chapter1.c.s
+src/chapter1_exercises/Chapter1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.s
+.PHONY : src/chapter1_exercises/Chapter1.c.s
 
-src/main.o: src/main.c.o
-.PHONY : src/main.o
+src/chapter1_exercises/exercise1_10.o: src/chapter1_exercises/exercise1_10.c.o
+.PHONY : src/chapter1_exercises/exercise1_10.o
 
 # target to build an object file
-src/main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/main.c.o
-.PHONY : src/main.c.o
+src/chapter1_exercises/exercise1_10.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_10.dir/build.make CMakeFiles/exercise1_10.dir/src/chapter1_exercises/exercise1_10.c.o
+.PHONY : src/chapter1_exercises/exercise1_10.c.o
 
-src/main.i: src/main.c.i
-.PHONY : src/main.i
+src/chapter1_exercises/exercise1_10.i: src/chapter1_exercises/exercise1_10.c.i
+.PHONY : src/chapter1_exercises/exercise1_10.i
 
 # target to preprocess a source file
-src/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/main.c.i
-.PHONY : src/main.c.i
+src/chapter1_exercises/exercise1_10.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_10.dir/build.make CMakeFiles/exercise1_10.dir/src/chapter1_exercises/exercise1_10.c.i
+.PHONY : src/chapter1_exercises/exercise1_10.c.i
 
-src/main.s: src/main.c.s
-.PHONY : src/main.s
+src/chapter1_exercises/exercise1_10.s: src/chapter1_exercises/exercise1_10.c.s
+.PHONY : src/chapter1_exercises/exercise1_10.s
 
 # target to generate assembly for a file
-src/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/main.c.s
-.PHONY : src/main.c.s
+src/chapter1_exercises/exercise1_10.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_10.dir/build.make CMakeFiles/exercise1_10.dir/src/chapter1_exercises/exercise1_10.c.s
+.PHONY : src/chapter1_exercises/exercise1_10.c.s
+
+src/chapter1_exercises/exercise1_11.o: src/chapter1_exercises/exercise1_11.c.o
+.PHONY : src/chapter1_exercises/exercise1_11.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_11.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_11.dir/build.make CMakeFiles/exercise1_11.dir/src/chapter1_exercises/exercise1_11.c.o
+.PHONY : src/chapter1_exercises/exercise1_11.c.o
+
+src/chapter1_exercises/exercise1_11.i: src/chapter1_exercises/exercise1_11.c.i
+.PHONY : src/chapter1_exercises/exercise1_11.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_11.dir/build.make CMakeFiles/exercise1_11.dir/src/chapter1_exercises/exercise1_11.c.i
+.PHONY : src/chapter1_exercises/exercise1_11.c.i
+
+src/chapter1_exercises/exercise1_11.s: src/chapter1_exercises/exercise1_11.c.s
+.PHONY : src/chapter1_exercises/exercise1_11.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_11.dir/build.make CMakeFiles/exercise1_11.dir/src/chapter1_exercises/exercise1_11.c.s
+.PHONY : src/chapter1_exercises/exercise1_11.c.s
+
+src/chapter1_exercises/exercise1_12.o: src/chapter1_exercises/exercise1_12.c.o
+.PHONY : src/chapter1_exercises/exercise1_12.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_12.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_12.dir/build.make CMakeFiles/exercise1_12.dir/src/chapter1_exercises/exercise1_12.c.o
+.PHONY : src/chapter1_exercises/exercise1_12.c.o
+
+src/chapter1_exercises/exercise1_12.i: src/chapter1_exercises/exercise1_12.c.i
+.PHONY : src/chapter1_exercises/exercise1_12.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_12.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_12.dir/build.make CMakeFiles/exercise1_12.dir/src/chapter1_exercises/exercise1_12.c.i
+.PHONY : src/chapter1_exercises/exercise1_12.c.i
+
+src/chapter1_exercises/exercise1_12.s: src/chapter1_exercises/exercise1_12.c.s
+.PHONY : src/chapter1_exercises/exercise1_12.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_12.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_12.dir/build.make CMakeFiles/exercise1_12.dir/src/chapter1_exercises/exercise1_12.c.s
+.PHONY : src/chapter1_exercises/exercise1_12.c.s
+
+src/chapter1_exercises/exercise1_13.o: src/chapter1_exercises/exercise1_13.c.o
+.PHONY : src/chapter1_exercises/exercise1_13.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_13.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_13.dir/build.make CMakeFiles/exercise1_13.dir/src/chapter1_exercises/exercise1_13.c.o
+.PHONY : src/chapter1_exercises/exercise1_13.c.o
+
+src/chapter1_exercises/exercise1_13.i: src/chapter1_exercises/exercise1_13.c.i
+.PHONY : src/chapter1_exercises/exercise1_13.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_13.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_13.dir/build.make CMakeFiles/exercise1_13.dir/src/chapter1_exercises/exercise1_13.c.i
+.PHONY : src/chapter1_exercises/exercise1_13.c.i
+
+src/chapter1_exercises/exercise1_13.s: src/chapter1_exercises/exercise1_13.c.s
+.PHONY : src/chapter1_exercises/exercise1_13.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_13.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_13.dir/build.make CMakeFiles/exercise1_13.dir/src/chapter1_exercises/exercise1_13.c.s
+.PHONY : src/chapter1_exercises/exercise1_13.c.s
+
+src/chapter1_exercises/exercise1_14.o: src/chapter1_exercises/exercise1_14.c.o
+.PHONY : src/chapter1_exercises/exercise1_14.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_14.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_14.dir/build.make CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o
+.PHONY : src/chapter1_exercises/exercise1_14.c.o
+
+src/chapter1_exercises/exercise1_14.i: src/chapter1_exercises/exercise1_14.c.i
+.PHONY : src/chapter1_exercises/exercise1_14.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_14.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_14.dir/build.make CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.i
+.PHONY : src/chapter1_exercises/exercise1_14.c.i
+
+src/chapter1_exercises/exercise1_14.s: src/chapter1_exercises/exercise1_14.c.s
+.PHONY : src/chapter1_exercises/exercise1_14.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_14.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_14.dir/build.make CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.s
+.PHONY : src/chapter1_exercises/exercise1_14.c.s
+
+src/chapter1_exercises/exercise1_15.o: src/chapter1_exercises/exercise1_15.c.o
+.PHONY : src/chapter1_exercises/exercise1_15.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_15.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_15.dir/build.make CMakeFiles/exercise1_15.dir/src/chapter1_exercises/exercise1_15.c.o
+.PHONY : src/chapter1_exercises/exercise1_15.c.o
+
+src/chapter1_exercises/exercise1_15.i: src/chapter1_exercises/exercise1_15.c.i
+.PHONY : src/chapter1_exercises/exercise1_15.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_15.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_15.dir/build.make CMakeFiles/exercise1_15.dir/src/chapter1_exercises/exercise1_15.c.i
+.PHONY : src/chapter1_exercises/exercise1_15.c.i
+
+src/chapter1_exercises/exercise1_15.s: src/chapter1_exercises/exercise1_15.c.s
+.PHONY : src/chapter1_exercises/exercise1_15.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_15.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_15.dir/build.make CMakeFiles/exercise1_15.dir/src/chapter1_exercises/exercise1_15.c.s
+.PHONY : src/chapter1_exercises/exercise1_15.c.s
+
+src/chapter1_exercises/exercise1_16.o: src/chapter1_exercises/exercise1_16.c.o
+.PHONY : src/chapter1_exercises/exercise1_16.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_16.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_16.dir/build.make CMakeFiles/exercise1_16.dir/src/chapter1_exercises/exercise1_16.c.o
+.PHONY : src/chapter1_exercises/exercise1_16.c.o
+
+src/chapter1_exercises/exercise1_16.i: src/chapter1_exercises/exercise1_16.c.i
+.PHONY : src/chapter1_exercises/exercise1_16.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_16.dir/build.make CMakeFiles/exercise1_16.dir/src/chapter1_exercises/exercise1_16.c.i
+.PHONY : src/chapter1_exercises/exercise1_16.c.i
+
+src/chapter1_exercises/exercise1_16.s: src/chapter1_exercises/exercise1_16.c.s
+.PHONY : src/chapter1_exercises/exercise1_16.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_16.dir/build.make CMakeFiles/exercise1_16.dir/src/chapter1_exercises/exercise1_16.c.s
+.PHONY : src/chapter1_exercises/exercise1_16.c.s
+
+src/chapter1_exercises/exercise1_17.o: src/chapter1_exercises/exercise1_17.c.o
+.PHONY : src/chapter1_exercises/exercise1_17.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_17.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_17.dir/build.make CMakeFiles/exercise1_17.dir/src/chapter1_exercises/exercise1_17.c.o
+.PHONY : src/chapter1_exercises/exercise1_17.c.o
+
+src/chapter1_exercises/exercise1_17.i: src/chapter1_exercises/exercise1_17.c.i
+.PHONY : src/chapter1_exercises/exercise1_17.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_17.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_17.dir/build.make CMakeFiles/exercise1_17.dir/src/chapter1_exercises/exercise1_17.c.i
+.PHONY : src/chapter1_exercises/exercise1_17.c.i
+
+src/chapter1_exercises/exercise1_17.s: src/chapter1_exercises/exercise1_17.c.s
+.PHONY : src/chapter1_exercises/exercise1_17.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_17.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_17.dir/build.make CMakeFiles/exercise1_17.dir/src/chapter1_exercises/exercise1_17.c.s
+.PHONY : src/chapter1_exercises/exercise1_17.c.s
+
+src/chapter1_exercises/exercise1_18.o: src/chapter1_exercises/exercise1_18.c.o
+.PHONY : src/chapter1_exercises/exercise1_18.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_18.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_18.dir/build.make CMakeFiles/exercise1_18.dir/src/chapter1_exercises/exercise1_18.c.o
+.PHONY : src/chapter1_exercises/exercise1_18.c.o
+
+src/chapter1_exercises/exercise1_18.i: src/chapter1_exercises/exercise1_18.c.i
+.PHONY : src/chapter1_exercises/exercise1_18.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_18.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_18.dir/build.make CMakeFiles/exercise1_18.dir/src/chapter1_exercises/exercise1_18.c.i
+.PHONY : src/chapter1_exercises/exercise1_18.c.i
+
+src/chapter1_exercises/exercise1_18.s: src/chapter1_exercises/exercise1_18.c.s
+.PHONY : src/chapter1_exercises/exercise1_18.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_18.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_18.dir/build.make CMakeFiles/exercise1_18.dir/src/chapter1_exercises/exercise1_18.c.s
+.PHONY : src/chapter1_exercises/exercise1_18.c.s
+
+src/chapter1_exercises/exercise1_19.o: src/chapter1_exercises/exercise1_19.c.o
+.PHONY : src/chapter1_exercises/exercise1_19.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_19.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_19.dir/build.make CMakeFiles/exercise1_19.dir/src/chapter1_exercises/exercise1_19.c.o
+.PHONY : src/chapter1_exercises/exercise1_19.c.o
+
+src/chapter1_exercises/exercise1_19.i: src/chapter1_exercises/exercise1_19.c.i
+.PHONY : src/chapter1_exercises/exercise1_19.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_19.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_19.dir/build.make CMakeFiles/exercise1_19.dir/src/chapter1_exercises/exercise1_19.c.i
+.PHONY : src/chapter1_exercises/exercise1_19.c.i
+
+src/chapter1_exercises/exercise1_19.s: src/chapter1_exercises/exercise1_19.c.s
+.PHONY : src/chapter1_exercises/exercise1_19.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_19.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_19.dir/build.make CMakeFiles/exercise1_19.dir/src/chapter1_exercises/exercise1_19.c.s
+.PHONY : src/chapter1_exercises/exercise1_19.c.s
+
+src/chapter1_exercises/exercise1_2.o: src/chapter1_exercises/exercise1_2.c.o
+.PHONY : src/chapter1_exercises/exercise1_2.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_2.dir/build.make CMakeFiles/exercise1_2.dir/src/chapter1_exercises/exercise1_2.c.o
+.PHONY : src/chapter1_exercises/exercise1_2.c.o
+
+src/chapter1_exercises/exercise1_2.i: src/chapter1_exercises/exercise1_2.c.i
+.PHONY : src/chapter1_exercises/exercise1_2.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_2.dir/build.make CMakeFiles/exercise1_2.dir/src/chapter1_exercises/exercise1_2.c.i
+.PHONY : src/chapter1_exercises/exercise1_2.c.i
+
+src/chapter1_exercises/exercise1_2.s: src/chapter1_exercises/exercise1_2.c.s
+.PHONY : src/chapter1_exercises/exercise1_2.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_2.dir/build.make CMakeFiles/exercise1_2.dir/src/chapter1_exercises/exercise1_2.c.s
+.PHONY : src/chapter1_exercises/exercise1_2.c.s
+
+src/chapter1_exercises/exercise1_20.o: src/chapter1_exercises/exercise1_20.c.o
+.PHONY : src/chapter1_exercises/exercise1_20.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_20.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_20.dir/build.make CMakeFiles/exercise1_20.dir/src/chapter1_exercises/exercise1_20.c.o
+.PHONY : src/chapter1_exercises/exercise1_20.c.o
+
+src/chapter1_exercises/exercise1_20.i: src/chapter1_exercises/exercise1_20.c.i
+.PHONY : src/chapter1_exercises/exercise1_20.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_20.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_20.dir/build.make CMakeFiles/exercise1_20.dir/src/chapter1_exercises/exercise1_20.c.i
+.PHONY : src/chapter1_exercises/exercise1_20.c.i
+
+src/chapter1_exercises/exercise1_20.s: src/chapter1_exercises/exercise1_20.c.s
+.PHONY : src/chapter1_exercises/exercise1_20.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_20.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_20.dir/build.make CMakeFiles/exercise1_20.dir/src/chapter1_exercises/exercise1_20.c.s
+.PHONY : src/chapter1_exercises/exercise1_20.c.s
+
+src/chapter1_exercises/exercise1_21.o: src/chapter1_exercises/exercise1_21.c.o
+.PHONY : src/chapter1_exercises/exercise1_21.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_21.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_21.dir/build.make CMakeFiles/exercise1_21.dir/src/chapter1_exercises/exercise1_21.c.o
+.PHONY : src/chapter1_exercises/exercise1_21.c.o
+
+src/chapter1_exercises/exercise1_21.i: src/chapter1_exercises/exercise1_21.c.i
+.PHONY : src/chapter1_exercises/exercise1_21.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_21.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_21.dir/build.make CMakeFiles/exercise1_21.dir/src/chapter1_exercises/exercise1_21.c.i
+.PHONY : src/chapter1_exercises/exercise1_21.c.i
+
+src/chapter1_exercises/exercise1_21.s: src/chapter1_exercises/exercise1_21.c.s
+.PHONY : src/chapter1_exercises/exercise1_21.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_21.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_21.dir/build.make CMakeFiles/exercise1_21.dir/src/chapter1_exercises/exercise1_21.c.s
+.PHONY : src/chapter1_exercises/exercise1_21.c.s
+
+src/chapter1_exercises/exercise1_22.o: src/chapter1_exercises/exercise1_22.c.o
+.PHONY : src/chapter1_exercises/exercise1_22.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_22.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_22.dir/build.make CMakeFiles/exercise1_22.dir/src/chapter1_exercises/exercise1_22.c.o
+.PHONY : src/chapter1_exercises/exercise1_22.c.o
+
+src/chapter1_exercises/exercise1_22.i: src/chapter1_exercises/exercise1_22.c.i
+.PHONY : src/chapter1_exercises/exercise1_22.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_22.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_22.dir/build.make CMakeFiles/exercise1_22.dir/src/chapter1_exercises/exercise1_22.c.i
+.PHONY : src/chapter1_exercises/exercise1_22.c.i
+
+src/chapter1_exercises/exercise1_22.s: src/chapter1_exercises/exercise1_22.c.s
+.PHONY : src/chapter1_exercises/exercise1_22.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_22.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_22.dir/build.make CMakeFiles/exercise1_22.dir/src/chapter1_exercises/exercise1_22.c.s
+.PHONY : src/chapter1_exercises/exercise1_22.c.s
+
+src/chapter1_exercises/exercise1_23.o: src/chapter1_exercises/exercise1_23.c.o
+.PHONY : src/chapter1_exercises/exercise1_23.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_23.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_23.dir/build.make CMakeFiles/exercise1_23.dir/src/chapter1_exercises/exercise1_23.c.o
+.PHONY : src/chapter1_exercises/exercise1_23.c.o
+
+src/chapter1_exercises/exercise1_23.i: src/chapter1_exercises/exercise1_23.c.i
+.PHONY : src/chapter1_exercises/exercise1_23.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_23.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_23.dir/build.make CMakeFiles/exercise1_23.dir/src/chapter1_exercises/exercise1_23.c.i
+.PHONY : src/chapter1_exercises/exercise1_23.c.i
+
+src/chapter1_exercises/exercise1_23.s: src/chapter1_exercises/exercise1_23.c.s
+.PHONY : src/chapter1_exercises/exercise1_23.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_23.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_23.dir/build.make CMakeFiles/exercise1_23.dir/src/chapter1_exercises/exercise1_23.c.s
+.PHONY : src/chapter1_exercises/exercise1_23.c.s
+
+src/chapter1_exercises/exercise1_24.o: src/chapter1_exercises/exercise1_24.c.o
+.PHONY : src/chapter1_exercises/exercise1_24.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_24.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_24.dir/build.make CMakeFiles/exercise1_24.dir/src/chapter1_exercises/exercise1_24.c.o
+.PHONY : src/chapter1_exercises/exercise1_24.c.o
+
+src/chapter1_exercises/exercise1_24.i: src/chapter1_exercises/exercise1_24.c.i
+.PHONY : src/chapter1_exercises/exercise1_24.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_24.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_24.dir/build.make CMakeFiles/exercise1_24.dir/src/chapter1_exercises/exercise1_24.c.i
+.PHONY : src/chapter1_exercises/exercise1_24.c.i
+
+src/chapter1_exercises/exercise1_24.s: src/chapter1_exercises/exercise1_24.c.s
+.PHONY : src/chapter1_exercises/exercise1_24.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_24.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_24.dir/build.make CMakeFiles/exercise1_24.dir/src/chapter1_exercises/exercise1_24.c.s
+.PHONY : src/chapter1_exercises/exercise1_24.c.s
+
+src/chapter1_exercises/exercise1_3.o: src/chapter1_exercises/exercise1_3.c.o
+.PHONY : src/chapter1_exercises/exercise1_3.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_3.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_3.dir/build.make CMakeFiles/exercise1_3.dir/src/chapter1_exercises/exercise1_3.c.o
+.PHONY : src/chapter1_exercises/exercise1_3.c.o
+
+src/chapter1_exercises/exercise1_3.i: src/chapter1_exercises/exercise1_3.c.i
+.PHONY : src/chapter1_exercises/exercise1_3.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_3.dir/build.make CMakeFiles/exercise1_3.dir/src/chapter1_exercises/exercise1_3.c.i
+.PHONY : src/chapter1_exercises/exercise1_3.c.i
+
+src/chapter1_exercises/exercise1_3.s: src/chapter1_exercises/exercise1_3.c.s
+.PHONY : src/chapter1_exercises/exercise1_3.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_3.dir/build.make CMakeFiles/exercise1_3.dir/src/chapter1_exercises/exercise1_3.c.s
+.PHONY : src/chapter1_exercises/exercise1_3.c.s
+
+src/chapter1_exercises/exercise1_4.o: src/chapter1_exercises/exercise1_4.c.o
+.PHONY : src/chapter1_exercises/exercise1_4.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_4.dir/build.make CMakeFiles/exercise1_4.dir/src/chapter1_exercises/exercise1_4.c.o
+.PHONY : src/chapter1_exercises/exercise1_4.c.o
+
+src/chapter1_exercises/exercise1_4.i: src/chapter1_exercises/exercise1_4.c.i
+.PHONY : src/chapter1_exercises/exercise1_4.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_4.dir/build.make CMakeFiles/exercise1_4.dir/src/chapter1_exercises/exercise1_4.c.i
+.PHONY : src/chapter1_exercises/exercise1_4.c.i
+
+src/chapter1_exercises/exercise1_4.s: src/chapter1_exercises/exercise1_4.c.s
+.PHONY : src/chapter1_exercises/exercise1_4.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_4.dir/build.make CMakeFiles/exercise1_4.dir/src/chapter1_exercises/exercise1_4.c.s
+.PHONY : src/chapter1_exercises/exercise1_4.c.s
+
+src/chapter1_exercises/exercise1_5.o: src/chapter1_exercises/exercise1_5.c.o
+.PHONY : src/chapter1_exercises/exercise1_5.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_5.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_5.dir/build.make CMakeFiles/exercise1_5.dir/src/chapter1_exercises/exercise1_5.c.o
+.PHONY : src/chapter1_exercises/exercise1_5.c.o
+
+src/chapter1_exercises/exercise1_5.i: src/chapter1_exercises/exercise1_5.c.i
+.PHONY : src/chapter1_exercises/exercise1_5.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_5.dir/build.make CMakeFiles/exercise1_5.dir/src/chapter1_exercises/exercise1_5.c.i
+.PHONY : src/chapter1_exercises/exercise1_5.c.i
+
+src/chapter1_exercises/exercise1_5.s: src/chapter1_exercises/exercise1_5.c.s
+.PHONY : src/chapter1_exercises/exercise1_5.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_5.dir/build.make CMakeFiles/exercise1_5.dir/src/chapter1_exercises/exercise1_5.c.s
+.PHONY : src/chapter1_exercises/exercise1_5.c.s
+
+src/chapter1_exercises/exercise1_6.o: src/chapter1_exercises/exercise1_6.c.o
+.PHONY : src/chapter1_exercises/exercise1_6.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_6.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_6.dir/build.make CMakeFiles/exercise1_6.dir/src/chapter1_exercises/exercise1_6.c.o
+.PHONY : src/chapter1_exercises/exercise1_6.c.o
+
+src/chapter1_exercises/exercise1_6.i: src/chapter1_exercises/exercise1_6.c.i
+.PHONY : src/chapter1_exercises/exercise1_6.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_6.dir/build.make CMakeFiles/exercise1_6.dir/src/chapter1_exercises/exercise1_6.c.i
+.PHONY : src/chapter1_exercises/exercise1_6.c.i
+
+src/chapter1_exercises/exercise1_6.s: src/chapter1_exercises/exercise1_6.c.s
+.PHONY : src/chapter1_exercises/exercise1_6.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_6.dir/build.make CMakeFiles/exercise1_6.dir/src/chapter1_exercises/exercise1_6.c.s
+.PHONY : src/chapter1_exercises/exercise1_6.c.s
+
+src/chapter1_exercises/exercise1_7.o: src/chapter1_exercises/exercise1_7.c.o
+.PHONY : src/chapter1_exercises/exercise1_7.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_7.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_7.dir/build.make CMakeFiles/exercise1_7.dir/src/chapter1_exercises/exercise1_7.c.o
+.PHONY : src/chapter1_exercises/exercise1_7.c.o
+
+src/chapter1_exercises/exercise1_7.i: src/chapter1_exercises/exercise1_7.c.i
+.PHONY : src/chapter1_exercises/exercise1_7.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_7.dir/build.make CMakeFiles/exercise1_7.dir/src/chapter1_exercises/exercise1_7.c.i
+.PHONY : src/chapter1_exercises/exercise1_7.c.i
+
+src/chapter1_exercises/exercise1_7.s: src/chapter1_exercises/exercise1_7.c.s
+.PHONY : src/chapter1_exercises/exercise1_7.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_7.dir/build.make CMakeFiles/exercise1_7.dir/src/chapter1_exercises/exercise1_7.c.s
+.PHONY : src/chapter1_exercises/exercise1_7.c.s
+
+src/chapter1_exercises/exercise1_8.o: src/chapter1_exercises/exercise1_8.c.o
+.PHONY : src/chapter1_exercises/exercise1_8.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_8.dir/build.make CMakeFiles/exercise1_8.dir/src/chapter1_exercises/exercise1_8.c.o
+.PHONY : src/chapter1_exercises/exercise1_8.c.o
+
+src/chapter1_exercises/exercise1_8.i: src/chapter1_exercises/exercise1_8.c.i
+.PHONY : src/chapter1_exercises/exercise1_8.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_8.dir/build.make CMakeFiles/exercise1_8.dir/src/chapter1_exercises/exercise1_8.c.i
+.PHONY : src/chapter1_exercises/exercise1_8.c.i
+
+src/chapter1_exercises/exercise1_8.s: src/chapter1_exercises/exercise1_8.c.s
+.PHONY : src/chapter1_exercises/exercise1_8.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_8.dir/build.make CMakeFiles/exercise1_8.dir/src/chapter1_exercises/exercise1_8.c.s
+.PHONY : src/chapter1_exercises/exercise1_8.c.s
+
+src/chapter1_exercises/exercise1_9.o: src/chapter1_exercises/exercise1_9.c.o
+.PHONY : src/chapter1_exercises/exercise1_9.o
+
+# target to build an object file
+src/chapter1_exercises/exercise1_9.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_9.dir/build.make CMakeFiles/exercise1_9.dir/src/chapter1_exercises/exercise1_9.c.o
+.PHONY : src/chapter1_exercises/exercise1_9.c.o
+
+src/chapter1_exercises/exercise1_9.i: src/chapter1_exercises/exercise1_9.c.i
+.PHONY : src/chapter1_exercises/exercise1_9.i
+
+# target to preprocess a source file
+src/chapter1_exercises/exercise1_9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_9.dir/build.make CMakeFiles/exercise1_9.dir/src/chapter1_exercises/exercise1_9.c.i
+.PHONY : src/chapter1_exercises/exercise1_9.c.i
+
+src/chapter1_exercises/exercise1_9.s: src/chapter1_exercises/exercise1_9.c.s
+.PHONY : src/chapter1_exercises/exercise1_9.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/exercise1_9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_9.dir/build.make CMakeFiles/exercise1_9.dir/src/chapter1_exercises/exercise1_9.c.s
+.PHONY : src/chapter1_exercises/exercise1_9.c.s
+
+src/chapter1_exercises/main.o: src/chapter1_exercises/main.c.o
+.PHONY : src/chapter1_exercises/main.o
+
+# target to build an object file
+src/chapter1_exercises/main.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/chapter1_exercises/main.c.o
+.PHONY : src/chapter1_exercises/main.c.o
+
+src/chapter1_exercises/main.i: src/chapter1_exercises/main.c.i
+.PHONY : src/chapter1_exercises/main.i
+
+# target to preprocess a source file
+src/chapter1_exercises/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/chapter1_exercises/main.c.i
+.PHONY : src/chapter1_exercises/main.c.i
+
+src/chapter1_exercises/main.s: src/chapter1_exercises/main.c.s
+.PHONY : src/chapter1_exercises/main.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/chapter1_exercises/main.c.s
+.PHONY : src/chapter1_exercises/main.c.s
+
+src/chapter1_exercises/test.o: src/chapter1_exercises/test.c.o
+.PHONY : src/chapter1_exercises/test.o
+
+# target to build an object file
+src/chapter1_exercises/test.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/src/chapter1_exercises/test.c.o
+.PHONY : src/chapter1_exercises/test.c.o
+
+src/chapter1_exercises/test.i: src/chapter1_exercises/test.c.i
+.PHONY : src/chapter1_exercises/test.i
+
+# target to preprocess a source file
+src/chapter1_exercises/test.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/src/chapter1_exercises/test.c.i
+.PHONY : src/chapter1_exercises/test.c.i
+
+src/chapter1_exercises/test.s: src/chapter1_exercises/test.c.s
+.PHONY : src/chapter1_exercises/test.s
+
+# target to generate assembly for a file
+src/chapter1_exercises/test.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/src/chapter1_exercises/test.c.s
+.PHONY : src/chapter1_exercises/test.c.s
 
 # Help Target
 help:
@@ -199,13 +1087,109 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... chapter1"
+	@echo "... exercise1_10"
+	@echo "... exercise1_11"
+	@echo "... exercise1_12"
+	@echo "... exercise1_13"
+	@echo "... exercise1_14"
+	@echo "... exercise1_15"
+	@echo "... exercise1_16"
+	@echo "... exercise1_17"
+	@echo "... exercise1_18"
+	@echo "... exercise1_19"
+	@echo "... exercise1_2"
+	@echo "... exercise1_20"
+	@echo "... exercise1_21"
+	@echo "... exercise1_22"
+	@echo "... exercise1_23"
+	@echo "... exercise1_24"
+	@echo "... exercise1_3"
+	@echo "... exercise1_4"
+	@echo "... exercise1_5"
+	@echo "... exercise1_6"
+	@echo "... exercise1_7"
+	@echo "... exercise1_8"
+	@echo "... exercise1_9"
 	@echo "... program"
-	@echo "... src/Chapter1.o"
-	@echo "... src/Chapter1.i"
-	@echo "... src/Chapter1.s"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
+	@echo "... test"
+	@echo "... src/chapter1_exercises/Chapter1.o"
+	@echo "... src/chapter1_exercises/Chapter1.i"
+	@echo "... src/chapter1_exercises/Chapter1.s"
+	@echo "... src/chapter1_exercises/exercise1_10.o"
+	@echo "... src/chapter1_exercises/exercise1_10.i"
+	@echo "... src/chapter1_exercises/exercise1_10.s"
+	@echo "... src/chapter1_exercises/exercise1_11.o"
+	@echo "... src/chapter1_exercises/exercise1_11.i"
+	@echo "... src/chapter1_exercises/exercise1_11.s"
+	@echo "... src/chapter1_exercises/exercise1_12.o"
+	@echo "... src/chapter1_exercises/exercise1_12.i"
+	@echo "... src/chapter1_exercises/exercise1_12.s"
+	@echo "... src/chapter1_exercises/exercise1_13.o"
+	@echo "... src/chapter1_exercises/exercise1_13.i"
+	@echo "... src/chapter1_exercises/exercise1_13.s"
+	@echo "... src/chapter1_exercises/exercise1_14.o"
+	@echo "... src/chapter1_exercises/exercise1_14.i"
+	@echo "... src/chapter1_exercises/exercise1_14.s"
+	@echo "... src/chapter1_exercises/exercise1_15.o"
+	@echo "... src/chapter1_exercises/exercise1_15.i"
+	@echo "... src/chapter1_exercises/exercise1_15.s"
+	@echo "... src/chapter1_exercises/exercise1_16.o"
+	@echo "... src/chapter1_exercises/exercise1_16.i"
+	@echo "... src/chapter1_exercises/exercise1_16.s"
+	@echo "... src/chapter1_exercises/exercise1_17.o"
+	@echo "... src/chapter1_exercises/exercise1_17.i"
+	@echo "... src/chapter1_exercises/exercise1_17.s"
+	@echo "... src/chapter1_exercises/exercise1_18.o"
+	@echo "... src/chapter1_exercises/exercise1_18.i"
+	@echo "... src/chapter1_exercises/exercise1_18.s"
+	@echo "... src/chapter1_exercises/exercise1_19.o"
+	@echo "... src/chapter1_exercises/exercise1_19.i"
+	@echo "... src/chapter1_exercises/exercise1_19.s"
+	@echo "... src/chapter1_exercises/exercise1_2.o"
+	@echo "... src/chapter1_exercises/exercise1_2.i"
+	@echo "... src/chapter1_exercises/exercise1_2.s"
+	@echo "... src/chapter1_exercises/exercise1_20.o"
+	@echo "... src/chapter1_exercises/exercise1_20.i"
+	@echo "... src/chapter1_exercises/exercise1_20.s"
+	@echo "... src/chapter1_exercises/exercise1_21.o"
+	@echo "... src/chapter1_exercises/exercise1_21.i"
+	@echo "... src/chapter1_exercises/exercise1_21.s"
+	@echo "... src/chapter1_exercises/exercise1_22.o"
+	@echo "... src/chapter1_exercises/exercise1_22.i"
+	@echo "... src/chapter1_exercises/exercise1_22.s"
+	@echo "... src/chapter1_exercises/exercise1_23.o"
+	@echo "... src/chapter1_exercises/exercise1_23.i"
+	@echo "... src/chapter1_exercises/exercise1_23.s"
+	@echo "... src/chapter1_exercises/exercise1_24.o"
+	@echo "... src/chapter1_exercises/exercise1_24.i"
+	@echo "... src/chapter1_exercises/exercise1_24.s"
+	@echo "... src/chapter1_exercises/exercise1_3.o"
+	@echo "... src/chapter1_exercises/exercise1_3.i"
+	@echo "... src/chapter1_exercises/exercise1_3.s"
+	@echo "... src/chapter1_exercises/exercise1_4.o"
+	@echo "... src/chapter1_exercises/exercise1_4.i"
+	@echo "... src/chapter1_exercises/exercise1_4.s"
+	@echo "... src/chapter1_exercises/exercise1_5.o"
+	@echo "... src/chapter1_exercises/exercise1_5.i"
+	@echo "... src/chapter1_exercises/exercise1_5.s"
+	@echo "... src/chapter1_exercises/exercise1_6.o"
+	@echo "... src/chapter1_exercises/exercise1_6.i"
+	@echo "... src/chapter1_exercises/exercise1_6.s"
+	@echo "... src/chapter1_exercises/exercise1_7.o"
+	@echo "... src/chapter1_exercises/exercise1_7.i"
+	@echo "... src/chapter1_exercises/exercise1_7.s"
+	@echo "... src/chapter1_exercises/exercise1_8.o"
+	@echo "... src/chapter1_exercises/exercise1_8.i"
+	@echo "... src/chapter1_exercises/exercise1_8.s"
+	@echo "... src/chapter1_exercises/exercise1_9.o"
+	@echo "... src/chapter1_exercises/exercise1_9.i"
+	@echo "... src/chapter1_exercises/exercise1_9.s"
+	@echo "... src/chapter1_exercises/main.o"
+	@echo "... src/chapter1_exercises/main.i"
+	@echo "... src/chapter1_exercises/main.s"
+	@echo "... src/chapter1_exercises/test.o"
+	@echo "... src/chapter1_exercises/test.i"
+	@echo "... src/chapter1_exercises/test.s"
 .PHONY : help
 
 

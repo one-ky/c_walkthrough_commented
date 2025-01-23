@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/chapter1.dir/src/Chapter1.c.o -o chapter1 
+/usr/bin/cc CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o -o chapter1 

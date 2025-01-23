@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/program.dir/src/main.c.o -o program 
+/usr/bin/cc CMakeFiles/program.dir/src/chapter1_exercises/main.c.o -o program 

@@ -69,28 +69,28 @@ include CMakeFiles/program.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/program.dir/flags.make
 
-CMakeFiles/program.dir/src/main.c.o: CMakeFiles/program.dir/flags.make
-CMakeFiles/program.dir/src/main.c.o: /home/one-ky/projects/the\ c\ programming\ language/src/main.c
-CMakeFiles/program.dir/src/main.c.o: CMakeFiles/program.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/program.dir/src/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/program.dir/src/main.c.o -MF CMakeFiles/program.dir/src/main.c.o.d -o CMakeFiles/program.dir/src/main.c.o -c "/home/one-ky/projects/the c programming language/src/main.c"
+CMakeFiles/program.dir/src/chapter1_exercises/main.c.o: CMakeFiles/program.dir/flags.make
+CMakeFiles/program.dir/src/chapter1_exercises/main.c.o: /home/one-ky/projects/the\ c\ programming\ language/src/chapter1_exercises/main.c
+CMakeFiles/program.dir/src/chapter1_exercises/main.c.o: CMakeFiles/program.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/program.dir/src/chapter1_exercises/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/program.dir/src/chapter1_exercises/main.c.o -MF CMakeFiles/program.dir/src/chapter1_exercises/main.c.o.d -o CMakeFiles/program.dir/src/chapter1_exercises/main.c.o -c "/home/one-ky/projects/the c programming language/src/chapter1_exercises/main.c"
 
-CMakeFiles/program.dir/src/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/program.dir/src/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/one-ky/projects/the c programming language/src/main.c" > CMakeFiles/program.dir/src/main.c.i
+CMakeFiles/program.dir/src/chapter1_exercises/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/program.dir/src/chapter1_exercises/main.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/one-ky/projects/the c programming language/src/chapter1_exercises/main.c" > CMakeFiles/program.dir/src/chapter1_exercises/main.c.i
 
-CMakeFiles/program.dir/src/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/program.dir/src/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/one-ky/projects/the c programming language/src/main.c" -o CMakeFiles/program.dir/src/main.c.s
+CMakeFiles/program.dir/src/chapter1_exercises/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/program.dir/src/chapter1_exercises/main.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/one-ky/projects/the c programming language/src/chapter1_exercises/main.c" -o CMakeFiles/program.dir/src/chapter1_exercises/main.c.s
 
 # Object files for target program
 program_OBJECTS = \
-"CMakeFiles/program.dir/src/main.c.o"
+"CMakeFiles/program.dir/src/chapter1_exercises/main.c.o"
 
 # External object files for target program
 program_EXTERNAL_OBJECTS =
 
-program: CMakeFiles/program.dir/src/main.c.o
+program: CMakeFiles/program.dir/src/chapter1_exercises/main.c.o
 program: CMakeFiles/program.dir/build.make
 program: CMakeFiles/program.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable program"

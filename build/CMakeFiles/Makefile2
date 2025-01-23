@@ -65,6 +65,30 @@ CMAKE_BINARY_DIR = "/home/one-ky/projects/the c programming language/build"
 # The main recursive "all" target.
 all: CMakeFiles/program.dir/all
 all: CMakeFiles/chapter1.dir/all
+all: CMakeFiles/exercise1_2.dir/all
+all: CMakeFiles/test.dir/all
+all: CMakeFiles/exercise1_3.dir/all
+all: CMakeFiles/exercise1_4.dir/all
+all: CMakeFiles/exercise1_5.dir/all
+all: CMakeFiles/exercise1_6.dir/all
+all: CMakeFiles/exercise1_7.dir/all
+all: CMakeFiles/exercise1_8.dir/all
+all: CMakeFiles/exercise1_9.dir/all
+all: CMakeFiles/exercise1_10.dir/all
+all: CMakeFiles/exercise1_11.dir/all
+all: CMakeFiles/exercise1_12.dir/all
+all: CMakeFiles/exercise1_13.dir/all
+all: CMakeFiles/exercise1_14.dir/all
+all: CMakeFiles/exercise1_15.dir/all
+all: CMakeFiles/exercise1_16.dir/all
+all: CMakeFiles/exercise1_17.dir/all
+all: CMakeFiles/exercise1_18.dir/all
+all: CMakeFiles/exercise1_19.dir/all
+all: CMakeFiles/exercise1_20.dir/all
+all: CMakeFiles/exercise1_21.dir/all
+all: CMakeFiles/exercise1_22.dir/all
+all: CMakeFiles/exercise1_23.dir/all
+all: CMakeFiles/exercise1_24.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -74,6 +98,30 @@ preinstall:
 # The main recursive "clean" target.
 clean: CMakeFiles/program.dir/clean
 clean: CMakeFiles/chapter1.dir/clean
+clean: CMakeFiles/exercise1_2.dir/clean
+clean: CMakeFiles/test.dir/clean
+clean: CMakeFiles/exercise1_3.dir/clean
+clean: CMakeFiles/exercise1_4.dir/clean
+clean: CMakeFiles/exercise1_5.dir/clean
+clean: CMakeFiles/exercise1_6.dir/clean
+clean: CMakeFiles/exercise1_7.dir/clean
+clean: CMakeFiles/exercise1_8.dir/clean
+clean: CMakeFiles/exercise1_9.dir/clean
+clean: CMakeFiles/exercise1_10.dir/clean
+clean: CMakeFiles/exercise1_11.dir/clean
+clean: CMakeFiles/exercise1_12.dir/clean
+clean: CMakeFiles/exercise1_13.dir/clean
+clean: CMakeFiles/exercise1_14.dir/clean
+clean: CMakeFiles/exercise1_15.dir/clean
+clean: CMakeFiles/exercise1_16.dir/clean
+clean: CMakeFiles/exercise1_17.dir/clean
+clean: CMakeFiles/exercise1_18.dir/clean
+clean: CMakeFiles/exercise1_19.dir/clean
+clean: CMakeFiles/exercise1_20.dir/clean
+clean: CMakeFiles/exercise1_21.dir/clean
+clean: CMakeFiles/exercise1_22.dir/clean
+clean: CMakeFiles/exercise1_23.dir/clean
+clean: CMakeFiles/exercise1_24.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -83,7 +131,7 @@ clean: CMakeFiles/chapter1.dir/clean
 CMakeFiles/program.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=3,4 "Built target program"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=49,50 "Built target program"
 .PHONY : CMakeFiles/program.dir/all
 
 # Build rule for subdir invocation for target.
@@ -127,6 +175,630 @@ chapter1: CMakeFiles/chapter1.dir/rule
 CMakeFiles/chapter1.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/chapter1.dir/build.make CMakeFiles/chapter1.dir/clean
 .PHONY : CMakeFiles/chapter1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_2.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_2.dir/build.make CMakeFiles/exercise1_2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_2.dir/build.make CMakeFiles/exercise1_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=23,24 "Built target exercise1_2"
+.PHONY : CMakeFiles/exercise1_2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_2.dir/rule
+
+# Convenience name for target.
+exercise1_2: CMakeFiles/exercise1_2.dir/rule
+.PHONY : exercise1_2
+
+# clean rule for target.
+CMakeFiles/exercise1_2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_2.dir/build.make CMakeFiles/exercise1_2.dir/clean
+.PHONY : CMakeFiles/exercise1_2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/test.dir
+
+# All Build rule for target.
+CMakeFiles/test.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=51,52 "Built target test"
+.PHONY : CMakeFiles/test.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/test.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/test.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/test.dir/rule
+
+# Convenience name for target.
+test: CMakeFiles/test.dir/rule
+.PHONY : test
+
+# clean rule for target.
+CMakeFiles/test.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/clean
+.PHONY : CMakeFiles/test.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_3.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_3.dir/build.make CMakeFiles/exercise1_3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_3.dir/build.make CMakeFiles/exercise1_3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=35,36 "Built target exercise1_3"
+.PHONY : CMakeFiles/exercise1_3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_3.dir/rule
+
+# Convenience name for target.
+exercise1_3: CMakeFiles/exercise1_3.dir/rule
+.PHONY : exercise1_3
+
+# clean rule for target.
+CMakeFiles/exercise1_3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_3.dir/build.make CMakeFiles/exercise1_3.dir/clean
+.PHONY : CMakeFiles/exercise1_3.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_4.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_4.dir/build.make CMakeFiles/exercise1_4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_4.dir/build.make CMakeFiles/exercise1_4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=37,38 "Built target exercise1_4"
+.PHONY : CMakeFiles/exercise1_4.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_4.dir/rule
+
+# Convenience name for target.
+exercise1_4: CMakeFiles/exercise1_4.dir/rule
+.PHONY : exercise1_4
+
+# clean rule for target.
+CMakeFiles/exercise1_4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_4.dir/build.make CMakeFiles/exercise1_4.dir/clean
+.PHONY : CMakeFiles/exercise1_4.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_5.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_5.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_5.dir/build.make CMakeFiles/exercise1_5.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_5.dir/build.make CMakeFiles/exercise1_5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=39,40 "Built target exercise1_5"
+.PHONY : CMakeFiles/exercise1_5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_5.dir/rule
+
+# Convenience name for target.
+exercise1_5: CMakeFiles/exercise1_5.dir/rule
+.PHONY : exercise1_5
+
+# clean rule for target.
+CMakeFiles/exercise1_5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_5.dir/build.make CMakeFiles/exercise1_5.dir/clean
+.PHONY : CMakeFiles/exercise1_5.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_6.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_6.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_6.dir/build.make CMakeFiles/exercise1_6.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_6.dir/build.make CMakeFiles/exercise1_6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=41,42 "Built target exercise1_6"
+.PHONY : CMakeFiles/exercise1_6.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_6.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_6.dir/rule
+
+# Convenience name for target.
+exercise1_6: CMakeFiles/exercise1_6.dir/rule
+.PHONY : exercise1_6
+
+# clean rule for target.
+CMakeFiles/exercise1_6.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_6.dir/build.make CMakeFiles/exercise1_6.dir/clean
+.PHONY : CMakeFiles/exercise1_6.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_7.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_7.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_7.dir/build.make CMakeFiles/exercise1_7.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_7.dir/build.make CMakeFiles/exercise1_7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=43,44 "Built target exercise1_7"
+.PHONY : CMakeFiles/exercise1_7.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_7.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_7.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_7.dir/rule
+
+# Convenience name for target.
+exercise1_7: CMakeFiles/exercise1_7.dir/rule
+.PHONY : exercise1_7
+
+# clean rule for target.
+CMakeFiles/exercise1_7.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_7.dir/build.make CMakeFiles/exercise1_7.dir/clean
+.PHONY : CMakeFiles/exercise1_7.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_8.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_8.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_8.dir/build.make CMakeFiles/exercise1_8.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_8.dir/build.make CMakeFiles/exercise1_8.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=45,46 "Built target exercise1_8"
+.PHONY : CMakeFiles/exercise1_8.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_8.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_8.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_8.dir/rule
+
+# Convenience name for target.
+exercise1_8: CMakeFiles/exercise1_8.dir/rule
+.PHONY : exercise1_8
+
+# clean rule for target.
+CMakeFiles/exercise1_8.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_8.dir/build.make CMakeFiles/exercise1_8.dir/clean
+.PHONY : CMakeFiles/exercise1_8.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_9.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_9.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_9.dir/build.make CMakeFiles/exercise1_9.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_9.dir/build.make CMakeFiles/exercise1_9.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=47,48 "Built target exercise1_9"
+.PHONY : CMakeFiles/exercise1_9.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_9.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_9.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_9.dir/rule
+
+# Convenience name for target.
+exercise1_9: CMakeFiles/exercise1_9.dir/rule
+.PHONY : exercise1_9
+
+# clean rule for target.
+CMakeFiles/exercise1_9.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_9.dir/build.make CMakeFiles/exercise1_9.dir/clean
+.PHONY : CMakeFiles/exercise1_9.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_10.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_10.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_10.dir/build.make CMakeFiles/exercise1_10.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_10.dir/build.make CMakeFiles/exercise1_10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=3,4 "Built target exercise1_10"
+.PHONY : CMakeFiles/exercise1_10.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_10.dir/rule
+
+# Convenience name for target.
+exercise1_10: CMakeFiles/exercise1_10.dir/rule
+.PHONY : exercise1_10
+
+# clean rule for target.
+CMakeFiles/exercise1_10.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_10.dir/build.make CMakeFiles/exercise1_10.dir/clean
+.PHONY : CMakeFiles/exercise1_10.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_11.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_11.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_11.dir/build.make CMakeFiles/exercise1_11.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_11.dir/build.make CMakeFiles/exercise1_11.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=5,6 "Built target exercise1_11"
+.PHONY : CMakeFiles/exercise1_11.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_11.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_11.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_11.dir/rule
+
+# Convenience name for target.
+exercise1_11: CMakeFiles/exercise1_11.dir/rule
+.PHONY : exercise1_11
+
+# clean rule for target.
+CMakeFiles/exercise1_11.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_11.dir/build.make CMakeFiles/exercise1_11.dir/clean
+.PHONY : CMakeFiles/exercise1_11.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_12.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_12.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_12.dir/build.make CMakeFiles/exercise1_12.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_12.dir/build.make CMakeFiles/exercise1_12.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=7,8 "Built target exercise1_12"
+.PHONY : CMakeFiles/exercise1_12.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_12.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_12.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_12.dir/rule
+
+# Convenience name for target.
+exercise1_12: CMakeFiles/exercise1_12.dir/rule
+.PHONY : exercise1_12
+
+# clean rule for target.
+CMakeFiles/exercise1_12.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_12.dir/build.make CMakeFiles/exercise1_12.dir/clean
+.PHONY : CMakeFiles/exercise1_12.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_13.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_13.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_13.dir/build.make CMakeFiles/exercise1_13.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_13.dir/build.make CMakeFiles/exercise1_13.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=9,10 "Built target exercise1_13"
+.PHONY : CMakeFiles/exercise1_13.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_13.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_13.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_13.dir/rule
+
+# Convenience name for target.
+exercise1_13: CMakeFiles/exercise1_13.dir/rule
+.PHONY : exercise1_13
+
+# clean rule for target.
+CMakeFiles/exercise1_13.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_13.dir/build.make CMakeFiles/exercise1_13.dir/clean
+.PHONY : CMakeFiles/exercise1_13.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_14.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_14.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_14.dir/build.make CMakeFiles/exercise1_14.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_14.dir/build.make CMakeFiles/exercise1_14.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=11,12 "Built target exercise1_14"
+.PHONY : CMakeFiles/exercise1_14.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_14.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_14.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_14.dir/rule
+
+# Convenience name for target.
+exercise1_14: CMakeFiles/exercise1_14.dir/rule
+.PHONY : exercise1_14
+
+# clean rule for target.
+CMakeFiles/exercise1_14.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_14.dir/build.make CMakeFiles/exercise1_14.dir/clean
+.PHONY : CMakeFiles/exercise1_14.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_15.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_15.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_15.dir/build.make CMakeFiles/exercise1_15.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_15.dir/build.make CMakeFiles/exercise1_15.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=13,14 "Built target exercise1_15"
+.PHONY : CMakeFiles/exercise1_15.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_15.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_15.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_15.dir/rule
+
+# Convenience name for target.
+exercise1_15: CMakeFiles/exercise1_15.dir/rule
+.PHONY : exercise1_15
+
+# clean rule for target.
+CMakeFiles/exercise1_15.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_15.dir/build.make CMakeFiles/exercise1_15.dir/clean
+.PHONY : CMakeFiles/exercise1_15.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_16.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_16.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_16.dir/build.make CMakeFiles/exercise1_16.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_16.dir/build.make CMakeFiles/exercise1_16.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=15,16 "Built target exercise1_16"
+.PHONY : CMakeFiles/exercise1_16.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_16.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_16.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_16.dir/rule
+
+# Convenience name for target.
+exercise1_16: CMakeFiles/exercise1_16.dir/rule
+.PHONY : exercise1_16
+
+# clean rule for target.
+CMakeFiles/exercise1_16.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_16.dir/build.make CMakeFiles/exercise1_16.dir/clean
+.PHONY : CMakeFiles/exercise1_16.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_17.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_17.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_17.dir/build.make CMakeFiles/exercise1_17.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_17.dir/build.make CMakeFiles/exercise1_17.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=17,18 "Built target exercise1_17"
+.PHONY : CMakeFiles/exercise1_17.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_17.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_17.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_17.dir/rule
+
+# Convenience name for target.
+exercise1_17: CMakeFiles/exercise1_17.dir/rule
+.PHONY : exercise1_17
+
+# clean rule for target.
+CMakeFiles/exercise1_17.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_17.dir/build.make CMakeFiles/exercise1_17.dir/clean
+.PHONY : CMakeFiles/exercise1_17.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_18.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_18.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_18.dir/build.make CMakeFiles/exercise1_18.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_18.dir/build.make CMakeFiles/exercise1_18.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=19,20 "Built target exercise1_18"
+.PHONY : CMakeFiles/exercise1_18.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_18.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_18.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_18.dir/rule
+
+# Convenience name for target.
+exercise1_18: CMakeFiles/exercise1_18.dir/rule
+.PHONY : exercise1_18
+
+# clean rule for target.
+CMakeFiles/exercise1_18.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_18.dir/build.make CMakeFiles/exercise1_18.dir/clean
+.PHONY : CMakeFiles/exercise1_18.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_19.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_19.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_19.dir/build.make CMakeFiles/exercise1_19.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_19.dir/build.make CMakeFiles/exercise1_19.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=21,22 "Built target exercise1_19"
+.PHONY : CMakeFiles/exercise1_19.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_19.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_19.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_19.dir/rule
+
+# Convenience name for target.
+exercise1_19: CMakeFiles/exercise1_19.dir/rule
+.PHONY : exercise1_19
+
+# clean rule for target.
+CMakeFiles/exercise1_19.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_19.dir/build.make CMakeFiles/exercise1_19.dir/clean
+.PHONY : CMakeFiles/exercise1_19.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_20.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_20.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_20.dir/build.make CMakeFiles/exercise1_20.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_20.dir/build.make CMakeFiles/exercise1_20.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=25,26 "Built target exercise1_20"
+.PHONY : CMakeFiles/exercise1_20.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_20.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_20.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_20.dir/rule
+
+# Convenience name for target.
+exercise1_20: CMakeFiles/exercise1_20.dir/rule
+.PHONY : exercise1_20
+
+# clean rule for target.
+CMakeFiles/exercise1_20.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_20.dir/build.make CMakeFiles/exercise1_20.dir/clean
+.PHONY : CMakeFiles/exercise1_20.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_21.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_21.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_21.dir/build.make CMakeFiles/exercise1_21.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_21.dir/build.make CMakeFiles/exercise1_21.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=27,28 "Built target exercise1_21"
+.PHONY : CMakeFiles/exercise1_21.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_21.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_21.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_21.dir/rule
+
+# Convenience name for target.
+exercise1_21: CMakeFiles/exercise1_21.dir/rule
+.PHONY : exercise1_21
+
+# clean rule for target.
+CMakeFiles/exercise1_21.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_21.dir/build.make CMakeFiles/exercise1_21.dir/clean
+.PHONY : CMakeFiles/exercise1_21.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_22.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_22.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_22.dir/build.make CMakeFiles/exercise1_22.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_22.dir/build.make CMakeFiles/exercise1_22.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=29,30 "Built target exercise1_22"
+.PHONY : CMakeFiles/exercise1_22.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_22.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_22.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_22.dir/rule
+
+# Convenience name for target.
+exercise1_22: CMakeFiles/exercise1_22.dir/rule
+.PHONY : exercise1_22
+
+# clean rule for target.
+CMakeFiles/exercise1_22.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_22.dir/build.make CMakeFiles/exercise1_22.dir/clean
+.PHONY : CMakeFiles/exercise1_22.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_23.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_23.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_23.dir/build.make CMakeFiles/exercise1_23.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_23.dir/build.make CMakeFiles/exercise1_23.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=31,32 "Built target exercise1_23"
+.PHONY : CMakeFiles/exercise1_23.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_23.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_23.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_23.dir/rule
+
+# Convenience name for target.
+exercise1_23: CMakeFiles/exercise1_23.dir/rule
+.PHONY : exercise1_23
+
+# clean rule for target.
+CMakeFiles/exercise1_23.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_23.dir/build.make CMakeFiles/exercise1_23.dir/clean
+.PHONY : CMakeFiles/exercise1_23.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise1_24.dir
+
+# All Build rule for target.
+CMakeFiles/exercise1_24.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_24.dir/build.make CMakeFiles/exercise1_24.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_24.dir/build.make CMakeFiles/exercise1_24.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=33,34 "Built target exercise1_24"
+.PHONY : CMakeFiles/exercise1_24.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise1_24.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/exercise1_24.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/one-ky/projects/the c programming language/build/CMakeFiles" 0
+.PHONY : CMakeFiles/exercise1_24.dir/rule
+
+# Convenience name for target.
+exercise1_24: CMakeFiles/exercise1_24.dir/rule
+.PHONY : exercise1_24
+
+# clean rule for target.
+CMakeFiles/exercise1_24.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exercise1_24.dir/build.make CMakeFiles/exercise1_24.dir/clean
+.PHONY : CMakeFiles/exercise1_24.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

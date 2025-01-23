@@ -69,28 +69,28 @@ include CMakeFiles/chapter1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/chapter1.dir/flags.make
 
-CMakeFiles/chapter1.dir/src/Chapter1.c.o: CMakeFiles/chapter1.dir/flags.make
-CMakeFiles/chapter1.dir/src/Chapter1.c.o: /home/one-ky/projects/the\ c\ programming\ language/src/Chapter1.c
-CMakeFiles/chapter1.dir/src/Chapter1.c.o: CMakeFiles/chapter1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/chapter1.dir/src/Chapter1.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/chapter1.dir/src/Chapter1.c.o -MF CMakeFiles/chapter1.dir/src/Chapter1.c.o.d -o CMakeFiles/chapter1.dir/src/Chapter1.c.o -c "/home/one-ky/projects/the c programming language/src/Chapter1.c"
+CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o: CMakeFiles/chapter1.dir/flags.make
+CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o: /home/one-ky/projects/the\ c\ programming\ language/src/chapter1_exercises/Chapter1.c
+CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o: CMakeFiles/chapter1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o -MF CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o.d -o CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o -c "/home/one-ky/projects/the c programming language/src/chapter1_exercises/Chapter1.c"
 
-CMakeFiles/chapter1.dir/src/Chapter1.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter1.dir/src/Chapter1.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/one-ky/projects/the c programming language/src/Chapter1.c" > CMakeFiles/chapter1.dir/src/Chapter1.c.i
+CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/one-ky/projects/the c programming language/src/chapter1_exercises/Chapter1.c" > CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.i
 
-CMakeFiles/chapter1.dir/src/Chapter1.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter1.dir/src/Chapter1.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/one-ky/projects/the c programming language/src/Chapter1.c" -o CMakeFiles/chapter1.dir/src/Chapter1.c.s
+CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/one-ky/projects/the c programming language/src/chapter1_exercises/Chapter1.c" -o CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.s
 
 # Object files for target chapter1
 chapter1_OBJECTS = \
-"CMakeFiles/chapter1.dir/src/Chapter1.c.o"
+"CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o"
 
 # External object files for target chapter1
 chapter1_EXTERNAL_OBJECTS =
 
-chapter1: CMakeFiles/chapter1.dir/src/Chapter1.c.o
+chapter1: CMakeFiles/chapter1.dir/src/chapter1_exercises/Chapter1.c.o
 chapter1: CMakeFiles/chapter1.dir/build.make
 chapter1: CMakeFiles/chapter1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable chapter1"

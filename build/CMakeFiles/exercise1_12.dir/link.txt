@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/exercise1_12.dir/src/chapter1_exercises/exercise1_12.c.o -o exercise1_12 
