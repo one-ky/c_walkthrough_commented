@@ -2,6 +2,9 @@
 
 main()
 {
-    printf("exercise 6\n");
+    printf("exercise 7\n");
+
+    printf("The value of EOF is: %d\n", EOF);
+    return 0;
     
 }
