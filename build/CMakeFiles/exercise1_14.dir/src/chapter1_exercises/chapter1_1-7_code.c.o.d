@@ -1,5 +1,5 @@
-CMakeFiles/exercise1_4.dir/src/exercise1_4.c.o: \
- /home/one-ky/projects/the\ c\ programming\ language/src/exercise1_4.c \
+CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o: \
+ /home/one-ky/projects/the\ c\ programming\ language/src/chapter1_exercises/chapter1_1-7_code.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \

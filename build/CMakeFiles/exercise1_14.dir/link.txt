@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o -o exercise1_14 
+/usr/bin/cc "CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o" -o exercise1_14 

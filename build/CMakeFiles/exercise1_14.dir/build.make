@@ -69,28 +69,28 @@ include CMakeFiles/exercise1_14.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/exercise1_14.dir/flags.make
 
-CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o: CMakeFiles/exercise1_14.dir/flags.make
-CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o: /home/one-ky/projects/the\ c\ programming\ language/src/chapter1_exercises/exercise1_14.c
-CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o: CMakeFiles/exercise1_14.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o -MF CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o.d -o CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o -c "/home/one-ky/projects/the c programming language/src/chapter1_exercises/exercise1_14.c"
+CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o: CMakeFiles/exercise1_14.dir/flags.make
+CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o: /home/one-ky/projects/the\ c\ programming\ language/src/chapter1_exercises/chapter1_1-7_code.c
+CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o: CMakeFiles/exercise1_14.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o -MF CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o.d -o CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o -c "/home/one-ky/projects/the c programming language/src/chapter1_exercises/chapter1_1-7_code.c"
 
-CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/one-ky/projects/the c programming language/src/chapter1_exercises/exercise1_14.c" > CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.i
+CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/one-ky/projects/the c programming language/src/chapter1_exercises/chapter1_1-7_code.c" > CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.i
 
-CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/one-ky/projects/the c programming language/src/chapter1_exercises/exercise1_14.c" -o CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.s
+CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/one-ky/projects/the c programming language/src/chapter1_exercises/chapter1_1-7_code.c" -o CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.s
 
 # Object files for target exercise1_14
 exercise1_14_OBJECTS = \
-"CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o"
+"CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o"
 
 # External object files for target exercise1_14
 exercise1_14_EXTERNAL_OBJECTS =
 
-exercise1_14: CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o
+exercise1_14: CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o
 exercise1_14: CMakeFiles/exercise1_14.dir/build.make
 exercise1_14: CMakeFiles/exercise1_14.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/one-ky/projects/the c programming language/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable exercise1_14"

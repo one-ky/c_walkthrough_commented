@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/one-ky/projects/the c programming language/src/chapter1_exercises/exercise1_14.c" "CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o" "gcc" "CMakeFiles/exercise1_14.dir/src/chapter1_exercises/exercise1_14.c.o.d"
+  "/home/one-ky/projects/the c programming language/src/chapter1_exercises/chapter1_1-7_code.c" "CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o" "gcc" "CMakeFiles/exercise1_14.dir/src/chapter1_exercises/chapter1_1-7_code.c.o.d"
   )
 
 # Targets to which this target links.
